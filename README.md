@@ -1,4 +1,4 @@
-# epaubert
+# Enrique Paubert
 I am a Cybersecurity Researcher at the University of León with a strong interest in low-level programming and embedded systems. My primary programming languages are C, C++, Rust, and Bash; I also use Python and am interested in learning Zig.
 
 My recent work has focused on Identity-Based Cryptography (IBC), Post-Quantum Cryptography (Dilithium), and Quantum Key Distribution (QKD) systems.

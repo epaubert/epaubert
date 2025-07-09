@@ -1,13 +1,16 @@
 # Enrique Paubert
-I am a Cybersecurity Researcher at the University of León with a strong interest in low-level programming and embedded systems. My primary programming languages are C, C++, Rust, and Bash; I also use Python and am interested in learning Zig.
 
-My recent work has focused on Identity-Based Cryptography (IBC), Post-Quantum Cryptography (Dilithium), and Quantum Key Distribution (QKD) systems.
+**Cybersecurity Researcher · Systems Programmer · Linux Enthusiast**
 
-I enjoy learning new technologies, understanding how systems operate internally, and systems engineering. I have extensive experience debugging with GDB. I am also proficient with regular expressions. I use neovim btw.
+I'm a Cybersecurity Researcher at the University of León, passionate about low-level programming and embedded systems. My main languages are C, C++, Rust, and Bash; I also use Python and am currently exploring Zig.
 
-I have been a Linux user for over 10 years, distro-hopping across Debian, Arch, Fedora, openSUSE, Void, and more.
+My recent work focuses on Identity-Based Cryptography (IBC), Post-Quantum Cryptography, and Quantum Key Distribution (QKD) systems.
 
-I am always interested in acquiring new knowledge and deepening my understanding of cybersecurity and systems programming.
+I enjoy delving into new technologies, understanding how systems work under the hood, and tackling systems engineering challenges. I'm proficient with GDB for debugging and have extensive experience with regular expressions. (Also: I use neovim btw.)
+
+I have been a Linux user for over 10 years, distrohopping across Debian, Arch, Fedora, openSUSE, Void, and more.
+
+I'm always eager to deepen my expertise in cybersecurity and systems programming.
 
 ## Tech Stack
 
@@ -26,3 +29,8 @@ I am always interested in acquiring new knowledge and deepening my understanding
 ### Tools
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge)
+
+## Contact
+
+- [LinkedIn](https://linkedin.com/in/epaubert)
+- Email: epaubert97@gmail.com

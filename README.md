@@ -6,7 +6,7 @@ I'm a Cybersecurity Researcher at the University of León, passionate about low-
 
 My recent work focuses on Identity-Based Cryptography (IBC), Post-Quantum Cryptography, and Quantum Key Distribution (QKD) systems.
 
-I enjoy delving into new technologies, understanding how systems work under the hood, and tackling systems engineering challenges. I'm proficient with GDB for debugging and have extensive experience with regular expressions. (Also: I use neovim btw.)
+I enjoy delving into new technologies, understanding how systems work under the hood, and tackling systems engineering challenges. I'm proficient with GDB for debugging and have extensive experience with regular expressions. (I use neovim btw.)
 
 I have been a Linux user for over 10 years, distrohopping across Debian, Arch, Fedora, openSUSE, Void, and more.
 

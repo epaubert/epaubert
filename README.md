@@ -1,6 +1,6 @@
 # Enrique Paubert
 
-**Cybersecurity Researcher · Systems Programmer · Linux Enthusiast**
+**Cybersecurity · Systems Programing · Linux Enthusiast**
 
 I'm a Cybersecurity Researcher at the University of León, passionate about low-level programming and embedded systems. My main languages are C, C++, Rust, and Bash; I also use Python and am currently exploring Zig.
 

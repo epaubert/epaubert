@@ -1,16 +1,33 @@
 # Enrique Paubert
 
-**Cybersecurity · Systems Programing · Linux Enthusiast**
+### Cybersecurity & Low-Level Programming Enthusiast
 
-I'm a Cybersecurity Researcher at the University of León, passionate about low-level programming and embedded systems. My main languages are C, C++, Rust, and Bash; I also use Python and am currently exploring Zig.
+I'm a **Cybersecurity Engineer** with a strong foundation in **Computer Engineering** and a **Master's in Cybersecurity Research**. My passion lies in understanding technology at a deep level and designing **secure, high-performance systems**.
 
-My recent work focuses on Identity-Based Cryptography (IBC), Post-Quantum Cryptography, and Quantum Key Distribution (QKD) systems.
+My expertise spans **advanced cryptography**, **embedded systems**, and **Linux environments**, with a focus on **secure architectures**. I'm driven by curiosity and the challenge of tackling complex security problems.
 
-I enjoy delving into new technologies, understanding how systems work under the hood, and tackling systems engineering challenges. I'm proficient with GDB for debugging and have extensive experience with regular expressions. (I use neovim btw.)
+---
 
-I have been a Linux user for over 10 years, distrohopping across Debian, Arch, Fedora, openSUSE, Void, and more.
+## What I'm passionate about:
 
-I'm always eager to deepen my expertise in cybersecurity and systems programming.
+* **Applied Cybersecurity**: Designing and implementing robust security solutions.
+* **Low-Level Programming**: Diving into the nitty-gritty with languages like C, C++, and Rust.
+* **Efficient System Design**: Optimizing systems for performance and resource usage.
+* **Systems Engineering**: Building and understanding complex systems from the ground up.
+* **Linux**: Over a decade of advanced usage, exploring various distributions and their internals.
+
+---
+
+## My Expertise:
+
+In my recent work, I've focused on cutting-edge cryptographic solutions and embedded systems:
+
+* **Identity-Based Cryptography (IBC)**: Implemented secure communication systems, including a Vehicle-to-Vehicle (V2V) simulation in Rust, utilizing `Tokio` for asynchronous communication and `Docker` for deployment.
+* **Post-Quantum Cryptography**: Provided technical consultancy and developed a functional prototype for integrating Post-Quantum Digital Signature schemes (Dilithium) into a blockchain-based authentication system.
+* **Quantum Key Distribution (QKD)**: Developed a proof-of-concept for QKD systems.
+* **Real-Time Operating Systems (RTOS)**: Ported FreeRTOS to an ARM7 microcontroller, developing low-level drivers in C and debugging with GDB and JTAG.
+
+---
 
 ## Tech Stack
 
@@ -28,9 +45,15 @@ I'm always eager to deepen my expertise in cybersecurity and systems programming
 
 ### Tools
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GDB](https://img.shields.io/badge/GDB-000000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=gnu-make&logoColor=white)
+![RegEx](https://img.shields.io/badge/RegEx-4E65F6?style=for-the-badge)
+
+---
 
 ## Contact
 
-- [LinkedIn](https://linkedin.com/in/epaubert)
-- Email: epaubert97@gmail.com
+-   [LinkedIn](https://linkedin.com/in/epaubert)
+-   Email: epaubert97@gmail.com
